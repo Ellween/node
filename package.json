@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Simple",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ellween/node.git"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/Ellween/node/issues"
+  },
+  "homepage": "https://github.com/Ellween/node#readme"
+}
